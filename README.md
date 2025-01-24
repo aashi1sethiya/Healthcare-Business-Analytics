@@ -54,8 +54,3 @@ The dashboard incorporates various advanced visualization techniques:
 ## Advisor
 
 George Shaw, PhD
-
-For more information, please contact the project team.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/43490454/804dfdb9-c019-46cb-bae6-2dd4dd61d31c/paste.txt
